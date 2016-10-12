@@ -1,7 +1,7 @@
 ﻿using System;
 using CACTB.GenericDataStructures;
 
-namespace GenericDataStructures
+namespace CACTB
 {
     class Program
     {
